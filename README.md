@@ -1,3 +1,3 @@
 # HELLO! GIT!
 git is awesome VMS.
-umisama is IKEMEN.
+umisama is not IKEMEN.
